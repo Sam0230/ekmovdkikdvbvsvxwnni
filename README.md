@@ -1,1 +1,1 @@
-# ekmovdkikdvbvsvxwnni
+json格式新概念单词表 - 音标是从牛津高阶英汉词典里查的
