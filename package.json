@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "string-width": "^4.2.2",
+    "terminal-kit": "^2.1.6"
+  }
+}
